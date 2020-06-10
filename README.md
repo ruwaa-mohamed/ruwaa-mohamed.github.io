@@ -12,4 +12,5 @@ I work as a teaching assistant (TA) at the biomedical Informatics Program ([BMD]
 
 
 -- 
-Let's connect via [Twitter](https://twitter.com/_Ruwaa_), [Facebook](https://www.facebook.com/RuwaaIbrahem/), [LinkedIn](https://www.linkedin.com/in/ruwaaibrahem/), or [GitHub](http://github.com/ruwaa-mohamed/).
+
+Let's connect via [Twitter](https://twitter.com/_Ruwaa_), [Facebook](https://www.facebook.com/RuwaaIbrahem/), [LinkedIn](https://www.linkedin.com/in/ruwaaibrahem/), [GitHub](http://github.com/ruwaa-mohamed/), or [Research Gate](https://www.researchgate.net/profile/Ruwaa_Mohamed)
